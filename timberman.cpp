@@ -1,6 +1,6 @@
 // TimberMan Game with SFML
 // Compile using: g++ TimberMan.cpp -o TimberMan -lsfml-graphics -lsfml
-window -lsfml-system -lsfml-audio
+
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include <sstream>
